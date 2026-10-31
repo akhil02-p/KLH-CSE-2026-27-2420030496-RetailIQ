@@ -1,0 +1,29 @@
+Dataset,Test,Metric,Statistic,P_Value,P_Adjusted
+breast_cancer,Friedman,F1,39.571428571428605,2.5537211021389667e-09,
+breast_cancer,Wilcoxon: Decision Tree vs Logistic Regression,F1,0.0,1.2279185361336645e-05,3.6837556084009935e-05
+breast_cancer,Wilcoxon: Decision Tree vs Random Forest,F1,20.0,0.0002037784595615102,0.00040725162104322436
+breast_cancer,Wilcoxon: Logistic Regression vs Random Forest,F1,20.0,0.00020362581052161218,0.00040725162104322436
+diabetes_regression,Friedman,RMSE,44.72000000000003,1.9461458507251307e-10,
+diabetes_regression,Wilcoxon: Decision Tree vs Linear Regression,RMSE,0.0,5.960464477539063e-08,1.7881393432617188e-07
+diabetes_regression,Wilcoxon: Decision Tree vs Random Forest,RMSE,0.0,5.960464477539063e-08,1.7881393432617188e-07
+diabetes_regression,Wilcoxon: Linear Regression vs Random Forest,RMSE,16.0,1.0073184967041016e-05,1.0073184967041016e-05
+digits_classification,Friedman,F1,40.879999999999995,1.3274580022978815e-09,
+digits_classification,Wilcoxon: Decision Tree vs Logistic Regression,F1,0.0,5.960464477539063e-08,1.7881393432617188e-07
+digits_classification,Wilcoxon: Decision Tree vs Random Forest,F1,0.0,5.960464477539063e-08,1.7881393432617188e-07
+digits_classification,Wilcoxon: Logistic Regression vs Random Forest,F1,60.0,0.004604637622833252,0.004604637622833252
+iris_classification,Friedman,F1,6.297872340425489,0.04289773849325022,
+iris_classification,Wilcoxon: Decision Tree vs Logistic Regression,F1,17.5,0.027430259927205658,0.054860519854411316
+iris_classification,Wilcoxon: Decision Tree vs Random Forest,F1,3.0,0.012230642140651594,0.03669192642195478
+iris_classification,Wilcoxon: Logistic Regression vs Random Forest,F1,16.5,0.8313799771067277,0.8313799771067277
+synthetic_retail_churn,Friedman,F1,40.56,1.5577863964816304e-09,
+synthetic_retail_churn,Wilcoxon: Decision Tree vs Logistic Regression,F1,0.0,5.960464477539063e-08,1.7881393432617188e-07
+synthetic_retail_churn,Wilcoxon: Decision Tree vs Random Forest,F1,26.0,6.365776062011719e-05,6.365776062011719e-05
+synthetic_retail_churn,Wilcoxon: Logistic Regression vs Random Forest,F1,3.0,2.980232238769531e-07,5.960464477539062e-07
+synthetic_retail_sales,Friedman,RMSE,48.079999999999984,3.627109401522499e-11,
+synthetic_retail_sales,Wilcoxon: Decision Tree vs Linear Regression,RMSE,0.0,5.960464477539063e-08,1.7881393432617188e-07
+synthetic_retail_sales,Wilcoxon: Decision Tree vs Random Forest,RMSE,0.0,5.960464477539063e-08,1.7881393432617188e-07
+synthetic_retail_sales,Wilcoxon: Linear Regression vs Random Forest,RMSE,1.0,1.1920928955078125e-07,1.7881393432617188e-07
+wine,Friedman,F1,43.18181818181818,4.199400760469226e-10,
+wine,Wilcoxon: Decision Tree vs Logistic Regression,F1,0.0,5.960464477539063e-08,1.7881393432617188e-07
+wine,Wilcoxon: Decision Tree vs Random Forest,F1,0.0,5.960464477539063e-08,1.7881393432617188e-07
+wine,Wilcoxon: Logistic Regression vs Random Forest,F1,24.5,0.1408719930081559,0.1408719930081559

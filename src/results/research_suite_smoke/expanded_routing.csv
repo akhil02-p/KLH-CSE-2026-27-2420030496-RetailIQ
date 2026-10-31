@@ -1,0 +1,11 @@
+Dataset,Expected_Task,Detected_Target,Detected_Task,Correct
+breast_cancer,classification,target,classification,True
+wine,classification,target,classification,True
+iris_classification,classification,target,classification,True
+digits_classification,classification,target,classification,True
+diabetes_regression,regression,target_value,regression,True
+iris_unsupervised,unsupervised,None,unsupervised,True
+wine_unsupervised,unsupervised,None,unsupervised,True
+digits_unsupervised,unsupervised,None,unsupervised,True
+synthetic_retail_sales,regression,sales,regression,True
+synthetic_retail_churn,classification,churn,classification,True

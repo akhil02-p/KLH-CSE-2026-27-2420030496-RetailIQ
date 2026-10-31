@@ -1,0 +1,13 @@
+Dataset,Test,Metric,Statistic,P_Value
+Breast Cancer,Friedman,F1,10.0,0.006737946999085468
+Breast Cancer,Wilcoxon: Decision Tree vs Logistic Regression,F1,0.0,0.0625
+Breast Cancer,Wilcoxon: Decision Tree vs Random Forest,F1,0.0,0.0625
+Breast Cancer,Wilcoxon: Logistic Regression vs Random Forest,F1,0.0,0.0625
+Wine,Friedman,F1,8.444444444444454,0.014666017116527033
+Wine,Wilcoxon: Decision Tree vs Logistic Regression,F1,0.0,0.0625
+Wine,Wilcoxon: Decision Tree vs Random Forest,F1,0.0,0.0625
+Wine,Wilcoxon: Logistic Regression vs Random Forest,F1,1.5,0.75
+Diabetes,Friedman,RMSE,8.400000000000006,0.01499557682047766
+Diabetes,Wilcoxon: Decision Tree vs Linear Regression,RMSE,0.0,0.0625
+Diabetes,Wilcoxon: Decision Tree vs Random Forest,RMSE,0.0,0.0625
+Diabetes,Wilcoxon: Linear Regression vs Random Forest,RMSE,2.0,0.1875

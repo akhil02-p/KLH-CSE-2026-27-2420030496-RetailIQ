@@ -1,0 +1,11 @@
+Dataset,Task,Runtime_Sec
+breast_cancer,classification,0.7562520999999833
+wine,classification,0.5778153400000292
+iris_classification,classification,0.522598113000015
+digits_classification,classification,0.8284971369999994
+diabetes_regression,regression,0.38446834800004126
+iris_unsupervised,unsupervised,0.04614216900000656
+wine_unsupervised,unsupervised,0.04611200499999768
+digits_unsupervised,unsupervised,0.711442556999998
+synthetic_retail_sales,regression,0.44542836999994506
+synthetic_retail_churn,classification,0.6553230910000138

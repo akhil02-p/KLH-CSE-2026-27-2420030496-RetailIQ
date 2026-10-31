@@ -1,0 +1,11 @@
+Dataset,Task,Rows,Columns,Target,Source,Path
+breast_cancer,classification,569,31,target,scikit-learn built-in; originally Wisconsin Diagnostic Breast Cancer,research_datasets/public/breast_cancer.csv
+wine,classification,178,14,target,scikit-learn built-in; UCI Wine dataset,research_datasets/public/wine.csv
+iris_classification,classification,150,5,target,scikit-learn built-in; Fisher Iris,research_datasets/public/iris_classification.csv
+digits_classification,classification,1797,65,target,scikit-learn built-in; handwritten digits,research_datasets/public/digits_classification.csv
+diabetes_regression,regression,442,11,target_value,scikit-learn built-in; diabetes regression benchmark,research_datasets/public/diabetes_regression.csv
+iris_unsupervised,unsupervised,150,4,None,scikit-learn Iris features with reference label removed,research_datasets/public/iris_unsupervised.csv
+wine_unsupervised,unsupervised,178,13,None,scikit-learn Wine features with reference label removed,research_datasets/public/wine_unsupervised.csv
+digits_unsupervised,unsupervised,1797,64,None,scikit-learn digits features with reference label removed,research_datasets/public/digits_unsupervised.csv
+synthetic_retail_sales,regression,600,7,sales,Synthetic retail sales benchmark generated with seed 42,research_datasets/synthetic/synthetic_retail_sales.csv
+synthetic_retail_churn,classification,600,8,churn,Synthetic retail churn benchmark generated with seed 42,research_datasets/synthetic/synthetic_retail_churn.csv

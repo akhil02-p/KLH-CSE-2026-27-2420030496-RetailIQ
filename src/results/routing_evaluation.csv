@@ -1,0 +1,5 @@
+Dataset,Rows,Expected_Task,Detected_Target,Detected_Task,Correct
+Breast Cancer,569,classification,target,classification,True
+Wine,178,classification,target,classification,True
+Diabetes,442,regression,target_value,regression,True
+Iris (target removed),150,unsupervised,None,unsupervised,True

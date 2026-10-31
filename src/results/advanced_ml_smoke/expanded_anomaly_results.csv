@@ -1,0 +1,2 @@
+Method,Precision,Recall,F1,Actual_Anomalies,Detected_Anomalies
+Isolation Forest,0.9666666666666667,0.9666666666666667,0.9666666666666667,30,30
